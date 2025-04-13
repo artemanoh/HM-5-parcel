@@ -1,2 +1,0 @@
-(()=>{var u,t;document.querySelector("sum").textContent="Сума 10 + 5 = 15",document.querySelector("subtract").textContent=`\u{412}\u{456}\u{434}\u{43D}\u{456}\u{43C}\u{430}\u{43D}\u{43D}\u{44F} ${a} - ${b} = ${a-b}`,document.querySelector("multiply").textContent=" 10 + 5 = 50",document.querySelector("divide").textContent=`\u{414}\u{456}\u{43B}\u{435}\u{43D}\u{43D}\u{44F} ${a} / ${b} = ${u=a,t=b,0===u?"Ділення на нуль неможливе":u/t}`})();
-//# sourceMappingURL=index.js.map
